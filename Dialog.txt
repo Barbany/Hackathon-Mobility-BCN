@@ -1,0 +1,36 @@
+[Plano sin nadie.]
+[Entra una persona, identificación con datos básicos aparece en la pantalla]
+
+** Sonido de Bienvenida **
+
+ALEXA - Hi David! Today's temperature is 24º degrees. Tell me if you need anything.
+
+[Pasan 10 segundos, el conductor parece contento]
+
+ALEXA - I'm detecting that you are having a good day! Do you want some music?
+
+DRIVER - Yes! I'm on your hands.
+
+[Pasan 10 segundos, el conductor se duerme]
+
+ALEXA - David, you look asleep! Pay attention to the road!
+
+[Pasan 10 segundos]
+
+DRIVER - Alexa, what's the best moment to put gas to the car?
+
+ALEXA - I have looked at your Calendar. I've explored the cheapest fuel stations
+        and detected that the best choice is to refuel tomorrow before you go to
+        Hackaton Mobility in a gas station located 100 meters from the meeting.
+        I will alert you tomorrow.
+
+[Pasan 10 segundos]
+
+DRIVER - Alexa, search me a parking spot.
+
+ALEXA - The nearest parking spot is 300 meters from you. Turn right in the next
+        street.
+
+[Pasan 10 segundos, el conductor desaparece de la imagen]
+
+ALEXA - Good bye, David!
